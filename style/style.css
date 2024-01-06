@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgb(229, 84, 115, 0.19);
+}
+
+.container {
+  width: 75%;
+  max-width: 1440 px;
+  margin: 0 auto;
+}
